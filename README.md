@@ -10,7 +10,7 @@ This project consists of a set of JavaScript exercises, each associated with a s
 - Analyzing 10 user-inputted numbers to determine how many are positive, negative, zero, even, and odd
 - Printing a multiplication table to the console
 - Displaying the days of the week in a loop, with user confirmation
-- A number guessing game where the program attempts to guess the user's number
+- A number guessing game where the program attempts to guess the user's number -- UNFINISHED
 
 How to run the project:
 
